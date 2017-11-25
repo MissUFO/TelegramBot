@@ -1,5 +1,0 @@
-C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.DataAccess\bin\Release\Retail.Telegram.Bot.DataAccess.dll
-C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.DataAccess\bin\Release\Retail.Telegram.Bot.DataAccess.pdb
-C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.DataAccess\obj\Release\Retail.Telegram.Bot.DataAccess.dll
-C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.DataAccess\obj\Release\Retail.Telegram.Bot.DataAccess.pdb
-C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.DataAccess\obj\Release\Retail.Telegram.Bot.DataAccess.csprojResolveAssemblyReference.cache

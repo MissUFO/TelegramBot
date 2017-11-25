@@ -1,9 +1,0 @@
-C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.Database\bin\Debug\Retail.Telegram.Bot.Database.dacpac
-C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.Database\bin\Debug\Retail.Telegram.Bot.Database.dll
-C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.Database\bin\Debug\Retail.Telegram.Bot.Database.pdb
-C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.Database\obj\Debug\Model.xml
-C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.Database\obj\Debug\refactor.xml
-C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.Database\obj\Debug\postdeploy.sql
-C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.Database\obj\Debug\predeploy.sql
-C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.Database\obj\Debug\Retail.Telegram.Bot.Database.dll
-C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.Database\obj\Debug\Retail.Telegram.Bot.Database.pdb
