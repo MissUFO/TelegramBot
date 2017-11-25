@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retail.Telegram.Bot.WebApi", "Retail.Telegram.Bot.WebApi\Retail.Telegram.Bot.WebApi.csproj", "{863AF90F-462C-47AA-AB63-C7DF753BD678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retail.Telegram.Bot.DataAccess", "Retail.Telegram.Bot.DataAccess\Retail.Telegram.Bot.DataAccess.csproj", "{C299851E-0040-4A9C-B573-4C38D87434D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retail.Telegram.Bot.BusinessLogic", "Retail.Telegram.Bot.BusinessLogic\Retail.Telegram.Bot.BusinessLogic.csproj", "{6877837B-610A-4CC6-B1A9-01690FB401F3}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Retail.Telegram.Bot.Database", "Retail.Telegram.Bot.Database\Retail.Telegram.Bot.Database.sqlproj", "{96F6DECD-EAA1-45A6-A473-DA0AD5865778}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBase", "DataBase", "{25FDB9CF-3B6D-4B35-A2E5-F2391ACBE120}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTest", "UnitTest", "{7EE11E81-5B86-433C-9988-72D96BD5A3EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retail.Telegram.Bot.Test", "Retail.Telegram.Bot.Test\Retail.Telegram.Bot.Test.csproj", "{E27BD558-72B3-49E0-A0B7-E776B189D75B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess", "DataAccess", "{6A158683-583A-4879-82B1-6F82BAC04CE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{863AF90F-462C-47AA-AB63-C7DF753BD678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863AF90F-462C-47AA-AB63-C7DF753BD678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863AF90F-462C-47AA-AB63-C7DF753BD678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863AF90F-462C-47AA-AB63-C7DF753BD678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C299851E-0040-4A9C-B573-4C38D87434D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C299851E-0040-4A9C-B573-4C38D87434D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C299851E-0040-4A9C-B573-4C38D87434D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C299851E-0040-4A9C-B573-4C38D87434D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6877837B-610A-4CC6-B1A9-01690FB401F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6877837B-610A-4CC6-B1A9-01690FB401F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6877837B-610A-4CC6-B1A9-01690FB401F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6877837B-610A-4CC6-B1A9-01690FB401F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F6DECD-EAA1-45A6-A473-DA0AD5865778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F6DECD-EAA1-45A6-A473-DA0AD5865778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F6DECD-EAA1-45A6-A473-DA0AD5865778}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{96F6DECD-EAA1-45A6-A473-DA0AD5865778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F6DECD-EAA1-45A6-A473-DA0AD5865778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F6DECD-EAA1-45A6-A473-DA0AD5865778}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E27BD558-72B3-49E0-A0B7-E776B189D75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27BD558-72B3-49E0-A0B7-E776B189D75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27BD558-72B3-49E0-A0B7-E776B189D75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27BD558-72B3-49E0-A0B7-E776B189D75B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C299851E-0040-4A9C-B573-4C38D87434D5} = {6A158683-583A-4879-82B1-6F82BAC04CE2}
+		{6877837B-610A-4CC6-B1A9-01690FB401F3} = {6A158683-583A-4879-82B1-6F82BAC04CE2}
+		{96F6DECD-EAA1-45A6-A473-DA0AD5865778} = {25FDB9CF-3B6D-4B35-A2E5-F2391ACBE120}
+		{E27BD558-72B3-49E0-A0B7-E776B189D75B} = {7EE11E81-5B86-433C-9988-72D96BD5A3EF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.DataAccess\bin\Debug\Retail.Telegram.Bot.DataAccess.dll
+C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.DataAccess\bin\Debug\Retail.Telegram.Bot.DataAccess.pdb
+C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.DataAccess\obj\Debug\Retail.Telegram.Bot.DataAccess.dll
+C:\Work\RetailTelegramBot\Dev\Retail.Telegram.Bot.DataAccess\obj\Debug\Retail.Telegram.Bot.DataAccess.pdb

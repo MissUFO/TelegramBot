@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Retail.Telegram.Bot.BusinessLogic.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TELEGRAM_API_KEY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">327682208:AAHv2ALZWBo48HjNH347rJZ3-r_bTwznaBQ</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

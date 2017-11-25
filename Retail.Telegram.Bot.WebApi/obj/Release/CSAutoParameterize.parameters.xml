@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="database-Web.config Connection String" description="database Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:adidasretail.database.windows.net,1433;Initial Catalog=TelegramBot;Persist Security Info=False;User ID=adidasbot;Password=Pa$$word1;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Work\\RetailTelegramBot\\Dev\\Retail\.Telegram\.Bot\.WebApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='database']/@connectionString" />
+  </parameter>
+</parameters>
